@@ -3,6 +3,9 @@ package test1;
 public class tests{
 	
 	static int x=30;
+	public static void m1() {
+		System.out.println("hi");
+	}
 	public void m2() {
 		int x=20;
 		System.out.println("m2 is running"+x);
