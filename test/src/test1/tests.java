@@ -14,6 +14,7 @@ public class tests{
 		
 		tests t=new tests();
 		t.m2();
+		System.out.println("hello");
 		
 	}
 }
